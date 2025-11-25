@@ -4,30 +4,12 @@ We're looking for additional coders for these games
 
 ---
 
-## **Spiritwalker**
+## **Discordant Noise**
 
-**Mobile AR adventure inspired by Pokémon GO**
+**Rhythm-based top-down action RPG boss rush**
 
-* **Game Design Document:** [Game Design Document](./spiritwalker/Game%20Design%20Document.md)
-* **Images:** ![](./spiritwalker/images/)
-
----
-
-## **Pocket Turtle**
-
-**Virtual pet / Tamagotchi-style game**
-
-* **Images:** ![](./PocketTurtle/images/)
-
----
-
-## **Mossy March Defense**
-
-**Stylized Tower Defense**
-
-* **Game Design Document:** [Game Design Document](./MossyMarchDefense/Game%20Design%20Document.md)
-* **Images:** ![](./MossyMarchDefense/images/)
-* **Source Code:** [https://github.com/100-Devs-1-Game/MossyMarchDefense](https://github.com/100-Devs-1-Game/MossyMarchDefense)
+* **Game Design Document:** [Game Design Document](./DiscordantNoise/Game%20Design%20Document.md)
+* **Source Code:** [https://github.com/100-Devs-1-Game/DiscordantNoise](https://github.com/100-Devs-1-Game/DiscordantNoise)
 
 ---
 
@@ -50,9 +32,31 @@ We're looking for additional coders for these games
 
 ---
 
-## **Discordant Noise**
+## **Mossy March Defense**
 
-**Rhythm-based top-down action RPG boss rush**
+**Stylized Tower Defense**
 
-* **Game Design Document:** [Game Design Document](./DiscordantNoise/Game%20Design%20Document.md)
-* **Source Code:** [https://github.com/100-Devs-1-Game/DiscordantNoise](https://github.com/100-Devs-1-Game/DiscordantNoise)
+* **Game Design Document:** [Game Design Document](./MossyMarchDefense/Game%20Design%20Document.md)
+* **Images:** ![](./MossyMarchDefense/images/)
+* **Source Code:** [https://github.com/100-Devs-1-Game/MossyMarchDefense](https://github.com/100-Devs-1-Game/MossyMarchDefense)
+
+---
+
+## **Pocket Turtle**
+
+**Virtual pet / Tamagotchi-style game**
+
+* **Images:** ![](./PocketTurtle/images/)
+
+
+---
+
+## **Spiritwalker**
+
+**Mobile AR adventure inspired by Pokémon GO**
+
+* **Game Design Document:** [Game Design Document](./spiritwalker/Game%20Design%20Document.md)
+* **Images:** ![](./spiritwalker/images/)
+
+---
+
