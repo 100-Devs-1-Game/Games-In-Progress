@@ -1,5 +1,5 @@
 # Games-In-Progress
-We're looking for additional coders for these games
+*We're looking for additional coders for following games:*
 
 
 ---
@@ -17,8 +17,8 @@ We're looking for additional coders for these games
 
 **Endless auto-shooter with meta-progression**
 
-* **Images:** ![](./EscapeForHelp/images/)
-* **Design Notes (MD):** [Design Notes](./EscapeForHelp/Design.md)
+* **Images:** ![](./escape_for_help/escape_for_help.png)
+* **Design Notes (MD):** [Roadmap](./escape_for_help/escape_for_help.md)
 * **Source Code:** [https://github.com/100-Devs-1-Game/EscapeForHelp](https://github.com/100-Devs-1-Game/EscapeForHelp)
 
 ---
@@ -27,7 +27,7 @@ We're looking for additional coders for these games
 
 **FNAF-style horror experience**
 
-* **Images:** ![](./Intrusion/images/)
+* **Images:** ![](./intrusion/intrusion_room3.png) ![](./intrusion/intrusion_room2.png) ![](./intrusion/intrusion_room1.png)
 * **Source Code:** [https://github.com/100-Devs-1-Game/INTRUSION](https://github.com/100-Devs-1-Game/INTRUSION)
 
 ---
@@ -37,7 +37,7 @@ We're looking for additional coders for these games
 **Stylized Tower Defense**
 
 * **Game Design Document:** [Game Design Document](./mossy_march_defense/mossy_march_defense_gdd.pdf)
-* **Images:** ![](./MossyMarchDefense/images/)
+* **Images:** ![](./mossy_march_defense/mossy_march.png)
 * **Source Code:** [https://github.com/100-Devs-1-Game/MossyMarchDefense](https://github.com/100-Devs-1-Game/MossyMarchDefense)
 
 ---
@@ -46,7 +46,7 @@ We're looking for additional coders for these games
 
 **Virtual pet / Tamagotchi-style game**
 
-* **Images:** ![](./PocketTurtle/images/)
+* **Images:** ![](./pocket_turtle/pocket_turtle.png) ![](./pocket_turtle/pocket_turtle2.png)
 
 
 ---
@@ -56,7 +56,5 @@ We're looking for additional coders for these games
 **Mobile AR adventure inspired by Pokémon GO**
 
 * **Game Design Document:** [Game Design Document](./spiritwalker/spiritwalker_gdd.pdf)
-* **Images:** ![](./spiritwalker/images/)
-
----
+* **Images:** ![](./spiritwalker/spiritwalker.png)
 
