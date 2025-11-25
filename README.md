@@ -8,7 +8,7 @@ We're looking for additional coders for these games
 
 **Rhythm-based top-down action RPG boss rush**
 
-* **Game Design Document:** [Game Design Document](./DiscordantNoise/Game%20Design%20Document.md)
+* **Game Design Document:** [Game Design Document](./discordant_noise/discordant_noise_revised_gdd.pdf)
 * **Source Code:** [https://github.com/100-Devs-1-Game/DiscordantNoise](https://github.com/100-Devs-1-Game/DiscordantNoise)
 
 ---
