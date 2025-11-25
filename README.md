@@ -36,7 +36,7 @@ We're looking for additional coders for these games
 
 **Stylized Tower Defense**
 
-* **Game Design Document:** [Game Design Document](./MossyMarchDefense/Game%20Design%20Document.md)
+* **Game Design Document:** [Game Design Document](./mossy_march_defense/mossy_march_defense_gdd.pdf)
 * **Images:** ![](./MossyMarchDefense/images/)
 * **Source Code:** [https://github.com/100-Devs-1-Game/MossyMarchDefense](https://github.com/100-Devs-1-Game/MossyMarchDefense)
 
@@ -55,7 +55,7 @@ We're looking for additional coders for these games
 
 **Mobile AR adventure inspired by Pokémon GO**
 
-* **Game Design Document:** [Game Design Document](./spiritwalker/Game%20Design%20Document.md)
+* **Game Design Document:** [Game Design Document](./spiritwalker/spiritwalker_gdd.pdf)
 * **Images:** ![](./spiritwalker/images/)
 
 ---
