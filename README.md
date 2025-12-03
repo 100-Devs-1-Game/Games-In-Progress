@@ -35,27 +35,6 @@
 * **Source Code:** [https://github.com/100-Devs-1-Game/INTRUSION](https://github.com/100-Devs-1-Game/INTRUSION)
 * [Discord Channel](https://discord.com/channels/1393033395298373643/1429852241065672765)
 
----
-
-## **Mossy March Defense**
-
-**Stylized Tower Defense**
-
-![](./mossy_march_defense/mossy_march.png)
-
-* **Game Design Document:** [Game Design Document](./mossy_march_defense/mossy_march_defense_gdd.pdf)
-* **Source Code:** [https://github.com/100-Devs-1-Game/MossyMarchDefense](https://github.com/100-Devs-1-Game/MossyMarchDefense)
-* [Discord Channel](https://discord.com/channels/1393033395298373643/1426665162433364042)
-
----
-
-## **Pocket Turtle**
-
-**Virtual pet / Tamagotchi-style game**
-
-![](./pocket_turtle/pocket_turtle.png) ![](./pocket_turtle/pocket_turtle2.png)
-* [Discord Channel](https://discord.com/channels/1393033395298373643/1430695178192293960)
-
 
 ---
 
